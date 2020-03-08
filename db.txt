@@ -1,4 +1,0 @@
-create user dlgroup identified by Baolinh2018;
-grant dba to dlgroup;
-
-connect dlgroup/Baolinh2018@dlgroup;;;;//////
